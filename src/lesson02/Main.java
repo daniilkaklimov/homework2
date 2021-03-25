@@ -44,6 +44,7 @@ public class Main {
             twoDimenArray[i][i] = 1;
             twoDimenArray[i][n - i - 1] = 1;
         }
+        System.out.println("");
 
     }
 }
